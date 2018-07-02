@@ -1,0 +1,1 @@
+from .foreign_principal_spider_test import *
